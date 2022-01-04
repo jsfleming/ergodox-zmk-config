@@ -16,7 +16,7 @@
     &kp LCTL   &kp LALT     &none      &kp LGUI   &kp LALT                                               &none      &none      &none      &none      &none
                                                              &none      &kp LPAR   &kp RPAR   &none
                                                                         &kp LT     &kp GT
-                                                  &kp SPC    &mo 1                            &kp RET    &kp RET
+                                                  &kp SPC    &mo 1                            &kp RET    &kp SPC
                                                                         &none      &none
                         >;
                 };
